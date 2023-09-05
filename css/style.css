@@ -205,7 +205,8 @@
     }
 
     #featured-images .banner-content {
-        opacity: 0;
+        opacity: none;
+        background-color: none;
     }
 }
 
